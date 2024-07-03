@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CCBungee">
+    <output-path>$PROJECT_DIR$/out/artifacts/CCBungee</output-path>
+    <root id="archive" name="CCBungee.jar">
+      <element id="module-output" name="CCBungee" />
+    </root>
+  </artifact>
+</component>
